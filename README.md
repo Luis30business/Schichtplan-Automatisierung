@@ -10,3 +10,6 @@ Das Ziel ist eine Automatiesierung die Automatisch anhand der Schichtplan Datei 
 ## Geplante Tools
 - n8n
 - Google Sheets
+
+
+Das ist eine Textänderung als Test
